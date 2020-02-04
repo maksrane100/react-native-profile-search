@@ -1,0 +1,38 @@
+{
+  "name": "moody-soylent---profile-search-by-city",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^36.0.0",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz",
+    "redux": "^4.0.0",
+    "jetifier": "^1.6.3",
+    "native-base": "2.13.8",
+    "react-redux": "^5.0.7",
+    "react-native-svg": "^6.5.2",
+    "react-navigation": "^2.9.3",
+    "react-native-paper": "3.1.1",
+    "react-native-camera": "^2.11.1",
+    "react-native-spinkit": "^1.1.1",
+    "react-native-elements": "^1.0.0-beta5",
+    "react-native-progress": "^3.5.0",
+    "react-native-geocoding": "^0.3.0",
+    "react-native-onesignal": "^3.2.6",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-qrcode-svg": "^5.1.0",
+    "react-native-device-info": "^2.2.2",
+    "react-native-masked-text": "^1.11.1",
+    "react-native-image-picker": "^0.28.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-google-places": "^3.0.1",
+    "react-native-splash-screen": "^3.0.6",
+    "react-native-modal-selector": "0.0.28"
+  }
+}
